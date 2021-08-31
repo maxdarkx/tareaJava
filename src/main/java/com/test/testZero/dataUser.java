@@ -16,7 +16,9 @@ public class dataUser {
         celularUsuario = entrada.nextLine();
         System.out.print("Escriba su edad: ");
         edadUsuario = entrada.nextLine();
-
+	
+	
+	
         text = "Bienvenido senor " + nombreUsuario + ", es un placer para nosotros contar con" +
                 " una persona de " + edadUsuario + " anos.\n"+
                 "Proximamente nos comunicaremos con usted al numero " + celularUsuario+ "\n" +
